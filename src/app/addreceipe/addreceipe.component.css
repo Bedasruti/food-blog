@@ -1,0 +1,17 @@
+
+  .mt50{
+      margin-top: 50px;
+  }
+  .form-horizontal{
+      width:920px;
+      margin: auto;
+  }
+  .control-label{
+      font-size: 16px;
+  }
+.btn-custom{
+    background-color: #ffd21a;
+    color: #fff;
+    font-weight: 600;
+    border: 1px solid #fb9a01;
+}

@@ -1,0 +1,27 @@
+[
+    {
+      "id":"1",
+      "receipetitle": "Bamboo Biriyani",
+      "Ingredients" : "Basmati Rice"
+    },
+    {
+      "id":"2",
+      "receipetitle": "Pasta",
+      "Ingredients" : "Pasta(Macronni)"
+    },
+    {
+        "id":"3",
+        "receipetitle": "Salad",
+        "Ingredients" : "Green Vegetables"
+      },
+      {
+        "id":"4",
+        "receipetitle": "Dosha",
+        "Ingredients" : "Rice Paste"
+      },
+      {
+        "id":"5",
+        "receipetitle": " Mixed Noodles",
+        "Ingredients" : "Noodles"
+      }
+  ]

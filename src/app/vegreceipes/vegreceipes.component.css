@@ -1,0 +1,31 @@
+.breadcrumb {
+    padding: .75rem 1rem;
+    margin-bottom: 1rem;
+    list-style: none;
+    background-color:transparent;
+    border-radius: .25rem;
+}
+.sectionveg1{
+    margin: 30px 10px 30px 10px;
+}
+.asidefood1{
+    margin: 60px 30px 20px 50px;
+   
+}
+.asidefood{
+    margin: 0px 30px 20px 50px;
+   
+}
+.asidefood-text{
+    color: #fff;
+    font-size: 30px;
+    font-weight: bolder;
+    
+
+}
+.margintop{
+   margin-top: 40px;
+}
+.aside2{
+    margin: 0px 0px 0px 0px;
+}
